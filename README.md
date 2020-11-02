@@ -1,5 +1,5 @@
 # utl-select-a-list-of-variables-with-common-prefix-and-suffix
-Select a list of variables with common prefix and suffix 
+
     Select a list of variables with common prefix and suffix                                                                  
                                                                                                                               
     Select variables that begin with S or s and end with 2020                                                                 
